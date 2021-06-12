@@ -34,4 +34,50 @@ ___italic & bold___<br>
   [Google](https://www.google.com/)
   
   # images
-  ![rose]
+  ![rose](download.jfif)
+  
+  ```
+  python programming
+  data
+  s="python"
+  print(s)
+  javascript code
+  var s= "javascript"
+  document.writeln(s);
+  ```
+  
+  
+  
+  |**name**|**rollno**|
+  -----|------
+  surya|535
+  venkat|536
+  narla|538
+  
+  
+  horizonta line
+  ---
+  line2
+  ***
+  line3
+  ____
+  
+  <table>
+ <tr>
+ <th>Name</th>
+  <th>Rollno</th>
+ </tr>
+ <tr>
+  <td>surya</td>
+  <td>532</td>
+ </tr>
+ <tr>
+  <td>venkat</td>
+  <td>66</td>
+ </tr>
+ </table>
+ 
+ 
+ <img src="download.jfif" alt="image">
+ 
+
